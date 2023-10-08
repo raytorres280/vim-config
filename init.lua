@@ -1,0 +1,2 @@
+require("boobie")
+print("hello")
